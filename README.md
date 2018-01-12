@@ -1,5 +1,5 @@
-# iOS Journey
-iOS Journey is a collaborative collection of useful tips and tricks with examples.
+# Awesome Tips
+Awesome Tips is a collaborative collection of useful tips and tricks with examples.
 
 ### Contents:
  - UIStackView
