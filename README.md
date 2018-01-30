@@ -4,7 +4,7 @@ Awesome Tips is a collaborative collection of useful tips and tricks with exampl
 ### Contents:
  - UIStackView
 	 - [WeightedView](https://github.com/NSErfan/iOS-Journey/tree/master/WeightedView-example)
- - Shadow & Corner Radius at the same time
+ - Having Shadow, Corner Radius and clipsToBound set to true at the same time
  	 - [EasyShadowView](https://github.com/NSErfan/Awesome-Tips/tree/master/EasyShadow)
 
 ### Contribution:
